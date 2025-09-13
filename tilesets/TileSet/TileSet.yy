@@ -3,12 +3,13 @@
   "%Name":"TileSet",
   "autoTileSets":[],
   "macroPageTiles":{
-    "SerialiseHeight":0,
-    "SerialiseWidth":0,
-    "TileSerialiseData":[],
+    "SerialiseHeight":26,
+    "SerialiseWidth":23,
+    "TileCompressedData":[-598,0,],
+    "TileDataFormat":1,
   },
   "name":"TileSet",
-  "out_columns":4,
+  "out_columns":31,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -34,5 +35,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":16,
+  "tile_count":961,
 }
